@@ -2,4 +2,5 @@
 
 -Anacaonda download
 -VS Code download
--Git downlod
+-Git download
+
